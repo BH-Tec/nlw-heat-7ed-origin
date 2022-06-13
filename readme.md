@@ -36,7 +36,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - Stage 1 :white_check_mark: *#RumoAoPróximoNível*
 - Stage 2 :white_check_mark: *#Protagonistas*
 - Stage 3 :white_check_mark: *#ImaginarConstruirTransformar*
-- Stage 4 *#*
-- Stage 5 *#BuildTheFuture*
+- Stage 4 :white_check_mark: *#SemLimites*
+- Stage 5 :white_check_mark: *#BuildTheFuture*
 
 ---
