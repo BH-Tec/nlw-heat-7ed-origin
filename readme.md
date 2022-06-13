@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="#">Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://cracha-virtual.netlify.app">Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -32,10 +32,10 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 ## Aulas
 
-- Stage 1 :white_check_mark:
-- Stage 2 :white_check_mark:
-- Stage 3
-- Stage 4
-- Stage 5
+- Stage 1 :white_check_mark: *#RumoAoPróximoNível*
+- Stage 2 :white_check_mark: *#Protagonistas*
+- Stage 3 :white_check_mark: *#*
+- Stage 4 *#*
+- Stage 5 *#*
 
 ---
