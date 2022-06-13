@@ -18,6 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - [Vanilla-tilt](https://micku7zu.github.io/vanilla-tilt.js/index.html)
 - [Animate.css](https://github.com/animate-css/animate.css)
+- [Clippy CSS](https://bennettfeely.com/clippy/)
 
 ## 💻 Projeto
 
@@ -32,7 +33,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 ## Aulas
 
 - Stage 1 :white_check_mark:
-- Stage 2
+- Stage 2 :white_check_mark:
 - Stage 3
 - Stage 4
 - Stage 5
