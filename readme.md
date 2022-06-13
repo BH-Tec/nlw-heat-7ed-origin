@@ -16,6 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
+- [Netlify](https://app.netlify.com/)
 - [Vanilla-tilt](https://micku7zu.github.io/vanilla-tilt.js/index.html)
 - [Animate.css](https://github.com/animate-css/animate.css)
 - [Clippy CSS](https://bennettfeely.com/clippy/)
@@ -26,7 +27,7 @@ O Crachá virtual DoWhile é uma aplicação estatica com o objetivo de mostrar 
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
@@ -34,8 +35,8 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 - Stage 1 :white_check_mark: *#RumoAoPróximoNível*
 - Stage 2 :white_check_mark: *#Protagonistas*
-- Stage 3 :white_check_mark: *#*
+- Stage 3 :white_check_mark: *#ImaginarConstruirTransformar*
 - Stage 4 *#*
-- Stage 5 *#*
+- Stage 5 *#BuildTheFuture*
 
 ---
